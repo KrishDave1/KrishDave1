@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Krish Dave</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" height="250" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" /> </p>
+<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" width="400" height="250"/> </p>
 # 💫 About Me:
 - 🔭 I’m currently working on **FrontEnd**
 
