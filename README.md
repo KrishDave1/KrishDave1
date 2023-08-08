@@ -5,8 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishdave1&label=Profile%20views&color=0e75b6&style=flat" alt="krishdave1" /> </p>
-
+<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" /> </p>
 # 💫 About Me:
 - 🔭 I’m currently working on **FrontEnd**
 
