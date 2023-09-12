@@ -39,4 +39,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<p align="center"> 
+  Visitors(from Apr 12, 2021):<br>
+  <img src="https://profile-counter.glitch.me/KrishDave1/count.svg" />
+</p>
 ---
