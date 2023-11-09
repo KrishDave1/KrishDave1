@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" width="400" height="250"/> </p>
 # 💫 About Me:
-- 🔭 I’m currently working on **FrontEnd**
+- 🔭 I’m currently working on FrontEnd
 
 - 🌱 I’m currently learning **FrontEnd Development**
 
