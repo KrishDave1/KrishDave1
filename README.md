@@ -5,7 +5,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="250"/>
 
 <p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" width="400" height="250"/> </p>
-# 💫 About Me:
+💫 About Me:
 - 🔭 I’m currently working on FrontEnd and BackEnd
 
 - 🌱 I’m currently learning **Web Development**
