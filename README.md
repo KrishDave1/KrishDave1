@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Krish Dave</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="250"/>
+<img align="right" alt="Coder GIF" height=250 width=450 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-<p align="left"> <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" alt="krishdave1" width="400" height="250"/> </p>
+<p align="left"> <img alt="Coder GIF" height=250 width=450 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
 💫 About Me:
 - 🔭 I’m currently working on FrontEnd and BackEnd
 
