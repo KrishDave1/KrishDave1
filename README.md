@@ -6,7 +6,9 @@
 
 <p align="left"> <img alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
 💫 About Me:
-- 🔭 I’m currently working on FrontEnd and BackEnd
+- 🎓 I'm a Second year CSE student at IIIT Bangalore.   
+
+- 🔭 I’m currently working on **AppointmentManager**
 
 - 🌱 I’m currently learning **Web Development**
 
