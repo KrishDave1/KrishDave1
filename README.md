@@ -28,7 +28,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <div>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
