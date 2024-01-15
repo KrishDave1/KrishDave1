@@ -21,7 +21,7 @@
   
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krishd_dancer01/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/krishd_dancer01/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-dave-8374a924b/) 
 [![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white)](https://www.codechef.com/users/krishdave01/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/krish_dave01/)
