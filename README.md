@@ -70,3 +70,7 @@
   <img src="https://profile-counter.glitch.me/KrishDave1/count.svg" />
 </p>
 ---
+
+---
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Fuhrerh-Lemon/Fuhrerh-Lemon/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
