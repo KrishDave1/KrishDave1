@@ -9,13 +9,13 @@
 
 - 🎓 I'm a Second year CSE student at IIIT Bangalore.   
 
-- 🔭 I’m currently working on **AppointmentManager**
+- 🔭 I’m currently working on **Learning_Docker**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Web related projects**
 
-- 💬 Ask me about **HTML,C,C++,Python,CSS**
+- 💬 Ask me about **HTML,C,C++,Python**
 
 - 📫 How to reach me **krishdave4u@gmail.com**
   
