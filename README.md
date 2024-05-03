@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web related projects**
 
-- 💬 Ask me about **HTML,C,C++,Python**
+- 💬 Ask me about **C,C++,Python,JS,React.js,Node.js**
 
 - 📫 How to reach me **krishdave4u@gmail.com**
   
