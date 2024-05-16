@@ -7,7 +7,7 @@
 <p align="left"> <img alt="Coder GIF" height=250 width=400 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
 💫 About Me:
 
-- 🎓 I'm a Second year CSE student at IIIT Bangalore.   
+- 🎓 I'm a Third year CSE student at IIIT Bangalore.   
 
 - 🔭 I’m currently working on **Learning_Docker**
 
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web related projects**
 
-- 💬 Ask me about **C,C++,Python,JS,React.js,Node.js**
+- 💬 Ask me about **C,C++,Python,JS,React.js,Node.js,Spring Boot**
 
 - 📫 How to reach me **krishdave4u@gmail.com**
   
