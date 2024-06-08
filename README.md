@@ -28,6 +28,9 @@
 
 </p>
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,bitbucket,bootstrap,c,cpp,docker,eclipse,express,figma,firebase,git,github,githubactions,latex,linux,materialui,md,matlab,maven,mongodb,mysql,netlify,nextjs,nodejs,postman,py,react,replit,spring,tailwind,threejs,ts,vite,vscode,webpack)](https://skillicons.dev)
+
 ## Languages and Tools:
 <div>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
