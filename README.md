@@ -30,49 +30,98 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,bitbucket,bootstrap,c,cpp,docker,eclipse,express,figma,firebase,gcp,git,github,githubactions,java,latex,linux,materialui,md,matlab,maven,mongodb,mysql,netlify,nextjs,nodejs,postman,py,react,replit,spring,tailwind,threejs,ts,vite,vscode,webpack)](https://skillicons.dev)
+<table style="width: 5000px; border-collapse: separate; border-spacing: 10px;">
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold; width:40%;">Frontend</td>
+    <td>
+      <strong>Frameworks & Libraries:</strong> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=angular" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=threejs" /></a><br>
+      <strong>Languages:</strong> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a><br>
+      <strong>UI Frameworks & Libraries:</strong> 
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=materialui" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Backend</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=express" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Cloud</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">DevOps and CI/CD</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=githubactions" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Version Control</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bitbucket" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=github" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Databases</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Tools and IDEs</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=eclipse" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=figma" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=replit" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Programming Languages</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=latex" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matlab" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td style="vertical-align:middle; text-align:center; font-weight:bold;">Other Technologies</td>
+    <td>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=maven" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" /></a>
+    </td>
+  </tr>
+</table>
 
-Certainly! Here's the segregated README section in the format you've specified:
 
----
 
-## Skills
-
-## Frontend
-### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,threejs)](https://skillicons.dev)
-
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
-
-### UI Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind)](https://skillicons.dev)
-
-## Backend
-[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring)](https://skillicons.dev)
-
-## Cloud
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase,gcp,netlify)](https://skillicons.dev)
-
-## DevOps and CI/CD
-[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
-
-## Version Control
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,git,github)](https://skillicons.dev)
-
-## Databases
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
-
-## Tools and IDEs
-[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,postman,vscode,replit)](https://skillicons.dev)
-
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,latex,matlab)](https://skillicons.dev)
-
-## Other Technologies
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,maven,webpack)](https://skillicons.dev)
-
----
 ## Languages and Tools:
 <div>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
