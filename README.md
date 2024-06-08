@@ -29,7 +29,7 @@
 </p>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,bitbucket,bootstrap,c,cpp,docker,eclipse,express,figma,firebase,git,github,githubactions,latex,linux,materialui,md,matlab,maven,mongodb,mysql,netlify,nextjs,nodejs,postman,py,react,replit,spring,tailwind,threejs,ts,vite,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,bitbucket,bootstrap,c,cpp,docker,eclipse,express,figma,firebase,gcp,git,github,githubactions,java,latex,linux,materialui,md,matlab,maven,mongodb,mysql,netlify,nextjs,nodejs,postman,py,react,replit,spring,tailwind,threejs,ts,vite,vscode,webpack)](https://skillicons.dev)
 
 ## Languages and Tools:
 <div>
