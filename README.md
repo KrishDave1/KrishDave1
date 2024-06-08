@@ -115,6 +115,7 @@
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bash" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=maven" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack" /></a>
     </td>
   </tr>
