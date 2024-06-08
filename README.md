@@ -29,8 +29,50 @@
 </p>
 
 ## Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,bash,bitbucket,bootstrap,c,cpp,docker,eclipse,express,figma,firebase,gcp,git,github,githubactions,java,latex,linux,materialui,md,matlab,maven,mongodb,mysql,netlify,nextjs,nodejs,postman,py,react,replit,spring,tailwind,threejs,ts,vite,vscode,webpack)](https://skillicons.dev)
 
+Certainly! Here's the segregated README section in the format you've specified:
+
+---
+
+## Skills
+
+## Frontend
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=angular,nextjs,react,threejs)](https://skillicons.dev)
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
+### UI Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,materialui,tailwind)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=express,nodejs,spring)](https://skillicons.dev)
+
+## Cloud
+[![My Skills](https://skillicons.dev/icons?i=docker,firebase,gcp,netlify)](https://skillicons.dev)
+
+## DevOps and CI/CD
+[![My Skills](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+
+## Version Control
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,git,github)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+## Tools and IDEs
+[![My Skills](https://skillicons.dev/icons?i=eclipse,figma,postman,vscode,replit)](https://skillicons.dev)
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,latex,matlab)](https://skillicons.dev)
+
+## Other Technologies
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,maven,webpack)](https://skillicons.dev)
+
+---
 ## Languages and Tools:
 <div>
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
