@@ -9,9 +9,9 @@
 
 - 🎓 I'm a Third year CSE student at IIIT Bangalore.   
 
-- 🔭 I’m currently working on **Learning_Docker**
+- 🔭 I’m currently working on **TrueFeedback_Next**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on **Web related projects**
 
