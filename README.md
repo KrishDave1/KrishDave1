@@ -70,6 +70,7 @@
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=firebase" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=gcp" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" /></a>
     </td>
   </tr>
   <tr>
@@ -101,6 +102,7 @@
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a>
       <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=replit" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=idea" /></a>
     </td>
   </tr>
   <tr>
