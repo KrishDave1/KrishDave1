@@ -12,7 +12,7 @@
 
 💫 About Me:
 
-- 🎓 I'm a Third year CSE student at IIIT Bangalore.   
+- 🎓 I'm a Fourth year CSE student at IIIT Bangalore.   
 
 - 🔭 I’m currently working on **messaging-app**
 
